@@ -12,7 +12,7 @@ Overall comments on grading questions:
 2) Are the pages reasonably structured with HTML?
     - For the most part, yes.
     - Arguably the contact information is not for navigation and thus shouldn't be a nav.
-    - The Absentee Voting page is sort of outside the navigation structure.
+    - The Absentee Voting page is outside the main navigation structure, which makes it harder to find.
 
 3) Are the pages tolerably styled with Bootstrap?
     - For the most part, yes.
